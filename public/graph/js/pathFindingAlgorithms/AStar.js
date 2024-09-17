@@ -131,4 +131,4 @@ export function Astr(x1 = 0, y1 = 0, x2 = rowsize - 1, y2 = colsize - 1) {
     setTimeout(() => {
         refreshBtn.style.visibility = 'visible';
     }, counter * time + 100);
-} // End start
+} // End start*/
