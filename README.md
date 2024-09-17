@@ -16,7 +16,6 @@ A web application, that lets you play with complex algorithms. User's gets to vi
   <details>
   <ul>
     <li> Dijkstra's path finding algorihtm. </li>
-    <li> A-Star path finding algorihtm. </li>
     <li> Breadth First Search (BFS) traversal algorihtm. </li>
     <li> Depth First Search (DFS) traversal algorithm. </li>
   </ul>
