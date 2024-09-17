@@ -44,7 +44,7 @@ A web application, that lets you play with complex algorithms. User's gets to vi
 - <strong> FrontEnd Design: </strong> HTML & CSS
 - <strong> Algorithms and animations: </strong> JavaScript
 - <strong> Server hosting: </strong> NodeJS
-- <strong> Web hosting: </strong> Netlify
+<!-- - <strong> Web hosting: </strong> Netlify -->
 
 
 ## Project Setup
@@ -57,7 +57,7 @@ $ cd Algorithm Viusalizer
 ```
 $ git checkout beta
 ```
-- To open the site you can either use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) of VS-Code or similar tools, or you need to install Node.js 
+- To open the site you can either use [Live Server]<!--(https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)--> of VS-Code or similar tools, or you need to install Node.js 
     <details>
     To open site on Localhost:
     - Install node dependencies using:
